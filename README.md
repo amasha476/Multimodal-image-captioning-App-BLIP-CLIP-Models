@@ -9,7 +9,7 @@ The repository is designed for:
 
 ---
 
-##  Sample Scripts (Start Here)
+##  Sample Scripts 
 
 Before using the web app, users are encouraged to explore the **sample Jupyter notebooks** to understand how image captioning works at a model level.
 
